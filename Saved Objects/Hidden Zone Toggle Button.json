@@ -1,0 +1,60 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "709a8f",
+      "Name": "Checker_black",
+      "Transform": {
+        "posX": 2.54587285E-08,
+        "posY": 0.959999859,
+        "posZ": -2.19097274E-08,
+        "rotX": -6.632878E-07,
+        "rotY": 180.0028,
+        "rotZ": -6.787857E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "LuaScript": "function onload()\r\n  self.createButton({ click_function = 'toggleZone',\r\n                      label = 'Lower Zones',\r\n                      function_owner = self,\r\n                      position = {0, 0.3, 0},\r\n                      rotation = {0, 0, 0},\r\n                      width = 1400,\r\n                      height = 500,\r\n                      font_size = 200})\r\nend\r\r\n\r\noffset = -10\r\nfunction toggleZone()\r\n    local allObjects = getAllObjects()\r\n    for _,o in ipairs(allObjects) do\r        if o.name == \"FogOfWarTrigger\" then\r\n            if o.isSmoothMoving() then return end\r            o.translate({0,offset,0})\r        end\r\n    end\r\n    offset = offset * -1\r\nend\r\n",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}
