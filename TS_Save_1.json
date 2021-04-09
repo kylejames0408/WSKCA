@@ -1,7 +1,7 @@
 {
   "SaveName": "Dungeon Dash",
-  "EpochTime": 1617923550,
-  "Date": "4/8/2021 7:12:30 PM",
+  "EpochTime": 1617934591,
+  "Date": "4/8/2021 10:16:31 PM",
   "VersionNumber": "v13.1",
   "GameMode": "Dungeon Dash",
   "GameType": "",
@@ -14,8 +14,8 @@
   "Note": "\n\n\n\n\n\n\n\n\n\n\n\n\n\nDungeon Dash                          \n\nGame Design                                                    \nWill Hongach III                                          \nSamuel Beckmann                                     \nKyle James                                                 \nConnie McGinnis                                        \nAlex Lawrence                                            \n\nOriginal Game Idea                                          \nNick Bryan                                                 ",
   "TabStates": {
     "0": {
-      "title": "Rules (v. INC)",
-      "body": "Final Project - Final Rules\r\nName\r\nBurning Bridges/Dungeons & Deceit\r\n\r\nIntroductory Flavor Text\r\nAfter forming a ragged exploration party with local personalities, delve into the depths of the region’s most notorious dungeons while working towards a personalized hidden objective. Form alliances, turn on fellow explorers, and make false promises to gather survival gear and fulfill your goal. Take the lead and emerge as the sole survivor of the expedition-- no questions asked.\r\n\r\nAmong the many different societies in Tekton, come many different jobs and occupations. Some may keep their noses tucked in mystical scrolls and texts while others find more joy in forging cogs. With all of this variety, there is one occupation that seems to trump all the rest: Diver. Despite the name, this has nothing to do with water or fish. Divers risk their lives delving into the darkest dungeons in the land to retrieve gold, artifacts, or even defeat ancient evils. Each Diver has their own reason for taking their occupation: gold, glory in batter, even perhaps just the thrill of exploration. Divers will often take bounties given by just about anyone, or join other Divers simply because a certain dungeon entices them. Unfortunately, with so much at stake and so many egos combatting each other, there is bound to be tension. Alliances will be tested and trust will be broken as you and your fellow Divers take on the challenges that the underbelly of Tekton holds.\r\n\r\nComponents\r\nMotivation Cards\r\nEnemy Cards\r\nItem Cards\r\nRoom Cards\r\n(2) Six-Sided Dice\r\nGroup Player Piece\r\nTiles\r\nPersonal Tokens (6 different colors)\r\n\r\nObjective\r\nEach player’s goal is to accumulate the most points in their respective motivation by the end of the game.\r\n\r\nPlayers\r\n3-6 players\r\n\r\nSetup\r\nSeparate and shuffle the stacks of cards and place them on the board in their aligned positions.\r\nHave each player roll the dice.\r\nThe highest roll draws one (1) motivation card first, proceeding through all players from highest roll to lowest roll.\r\nIf there is a tie, those players will proceed with rolling the dice until no longer tied.\r\nIn reverse order of the drawing of motivation cards, each player draws three (3) item cards.\r\nHave any player draw one (1) room card, which will contain the first room’s mechanics.\r\n\r\nPlay\r\nPlay takes place in a rotation of turns, going clockwise; each full circle of turns consists of a ‘round’.  Players will progress through 10 room cards while engaged in combat with monsters, looting items, and assisting/sabotaging other players.\r\n\r\nTo start the game, a room card is read which will describe how many (if any) monsters are present in the room, how many items, and the possible exits (4 cardinal directions). The appropriate number of monster cards are drawn and revealed to all players. These threats must be dealt with before the players may enter the next room.\r\n\r\nA turn consists of pre-combat, combat, and resolution.  In pre-combat, the player begins their turn with the option to play any item cards that they may be holding. When they are ready (and if an enemy is present), their combat begins by rolling the die. The amount that they roll is the damage dealt to the monster. After their roll, and before the damage is applied, each other player can play one item card to alter the combat events (items come into effect in a circle -- players may come to their aid or sabotage them mid-combat. If a player delivers the killing blow to a monster, they earn the loot. They end their turn.\r\n\r\nPlayer turns continue within the round until they defeat the monster(s). Players may only loot items as long as the room card has dictated that there are items available to be looted. When the players eliminate all of the monsters in a room, the next player chooses an exit. The next round begins.\r\n\r\nThe game ends when the group completes ten (10) rooms.\r\n\r\nResolution\r\nAfter the players complete ten rooms, each player will reveal their motivations and respective motivation points. The player with the most motivation points wins.\r\n\r\nDetails and Reference\r\nFAQ, ETC\r\n\r\nCredits\r\nGame Design: Will Hongach III, Samuel Beckmann, Kyle James, Connie McGinnis, Alex Lawrence\r\nOriginal Game Idea: Nick Bryan\r\n",
+      "title": "Rules (v.1)",
+      "body": "Final Project - Final Rules\r\nName\r\nBurning Bridges/Dungeons & Deceit\r\n\r\nIntroductory Flavor Text\r\nAfter forming a ragged exploration party with local personalities, delve into the depths of the region’s most notorious dungeons while working towards a personalized hidden objective. Form alliances, turn on fellow explorers, and make false promises to gather survival gear and fulfill your goal. Take the lead and emerge as the sole survivor of the expedition-- no questions asked.\r\n\r\nAmong the many different societies in Tekton, come many different jobs and occupations. Some may keep their noses tucked in mystical scrolls and texts while others find more joy in forging cogs. With all of this variety, there is one occupation that seems to trump all the rest: Diver. Despite the name, this has nothing to do with water or fish. Divers risk their lives delving into the darkest dungeons in the land to retrieve gold, artifacts, or even defeat ancient evils. Each Diver has their own reason for taking their occupation: gold, glory in batter, even perhaps just the thrill of exploration. Divers will often take bounties given by just about anyone, or join other Divers simply because a certain dungeon entices them. Unfortunately, with so much at stake and so many egos combatting each other, there is bound to be tension. Alliances will be tested and trust will be broken as you and your fellow Divers take on the challenges that the underbelly of Tekton holds.\r\n\r\nComponents\r\nMotivation Cards\r\nEnemy Cards\r\nItem Cards\r\nRoom Cards\r\n(2) Six-Sided Dice\r\nGroup Player Piece\r\nTiles\r\nPersonal Tokens (6 different colors)\r\n\r\nObjective\r\nEach player’s goal is to accumulate the most points in their respective motivation by the end of the game.\r\n\r\nPlayers\r\n3-6 players\r\n\r\nSetup\r\nSeparate and shuffle the stacks of cards and place them on the board in their aligned positions.\r\nHave each player roll the dice.\r\nThe highest roll draws one (1) motivation card first, proceeding through all players from highest roll to lowest roll.\r\nIf there is a tie, those players will proceed with rolling the dice until no longer tied.\r\nIn reverse order of the drawing of motivation cards, each player draws three (3) item cards.\r\nHave any player draw one (1) room card, which will contain the first room’s mechanics.\r\nEach player draws three (3) item cards, and may hold a maximum of seven (7) at any given moment.\r\n\r\nPlay\r\nPlay takes place in a rotation of turns, going clockwise; each full circle of turns consists of a ‘round’.  Players will progress through 10 room cards while engaged in combat with monsters, looting items, and assisting/sabotaging other players.\r\n\r\nTo start the game, a room card is read which will describe how many (if any) monsters are present in the room, and the possible exits. The appropriate number of monster cards are drawn and revealed to all players.  Up to three monsters may be in play at any given moment; players can only attack one monster at a time.  Monster cards have a health value, and a loot value that awarded to the player that delivers the killing blow.  These threats must be dealt with before the players may enter the next room.\r\n\r\nA player’s turn consists of pre-combat, combat, and resolution.  In pre-combat, the player begins their turn with the option to play any item cards that they may be holding.  These items, if played, will affect only the combat for their current turn.  \r\n\r\nTheir combat begins choosing a monster to attack, and then rolling the die. The amount that they roll is the tentative damage dealt to the monster. However, after their roll and before the damage is applied, each other player can play one item card to alter the combat events (items come into effect in a circular -- players may come to their aid or sabotage them mid-combat).  After the items have been played and the damage is finalized, the damage dealt is removed from the monster’s health pool and the turn proceeds to resolution.\r\n\r\nResolution begins- if a player delivers the killing blow to a monster, they earn the amount of loot on the monster card.  If a player has seven (7) cards in their hand, they must discard one before drawing another.  If a monster is defeated, remove it from play and put it in the discard pile.  If all monsters in a room are defeated, then the next player begins their turn by placing room cards at each designated exit, and then picking the one that the group proceeds to.\r\n\r\nThe game ends when the group completes ten (10) rooms.\r\n\r\nResolution\r\nAfter the players complete ten rooms, each player will reveal their motivations and respective motivation points. The player with the most motivation points wins.\r\n\r\nDetails and Reference\r\nFAQ, ETC\r\n\r\nCredits\r\nGame Design: Will Hongach III, Samuel Beckmann, Kyle James, Connie McGinnis, Alex Lawrence\r\nOriginal Game Idea: Nick Bryan\r\n",
       "color": "Grey",
       "visibleColor": {
         "r": 0.5,
@@ -2295,7 +2295,7 @@
         "posX": 0.626275,
         "posY": 0.960000336,
         "posZ": -13.532855,
-        "rotX": 2.64081628E-08,
+        "rotX": 2.64081663E-08,
         "rotY": 179.97818,
         "rotZ": 4.23690167E-08,
         "scaleX": 2.35795426,
@@ -2325,7 +2325,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "CustomPDF": {
-        "PDFUrl": "http://cloud-3.steamusercontent.com/ugc/1812111230264669754/8B64B3E00ED279803FDC8F55A89E11D7AE1DF7AA/",
+        "PDFUrl": "http://cloud-3.steamusercontent.com/ugc/1812111230265282446/DBD5BCE43AED4648C8B03E9B23E86F8C95BE0618/",
         "PDFPassword": "",
         "PDFPage": 0,
         "PDFPageOffset": 0
@@ -2339,10 +2339,10 @@
       "Name": "Die_6",
       "Transform": {
         "posX": 7.2124877,
-        "posY": 1.29019976,
+        "posY": 1.29019964,
         "posZ": -3.25201678,
         "rotX": 270.0,
-        "rotY": -7.421677E-07,
+        "rotY": -1.11182881E-05,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -2431,10 +2431,10 @@
       "Name": "Die_6",
       "Transform": {
         "posX": 8.071947,
-        "posY": 1.29019988,
+        "posY": 1.2902,
         "posZ": -3.25201654,
         "rotX": 270.0,
-        "rotY": -3.6377176E-05,
+        "rotY": -4.313513E-05,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -2607,7 +2607,7 @@
       "Name": "Infinite_Bag",
       "Transform": {
         "posX": -19.5,
-        "posY": 0.9429999,
+        "posY": 0.942999959,
         "posZ": -16.5,
         "rotX": -2.53167158E-08,
         "rotY": -1.69098646E-09,
@@ -2621,8 +2621,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.0999993756,
-        "b": 0.09399938
+        "g": 0.09999936,
+        "b": 0.09399935
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -2704,9 +2704,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.1919994,
+        "r": 0.191999376,
         "g": 0.701,
-        "b": 0.167999387
+        "b": 0.167999357
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -2790,7 +2790,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.1719994
+        "b": 0.171999365
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -2872,7 +2872,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999382,
+        "r": 0.117999353,
         "g": 0.53,
         "b": 1.0
       },
@@ -2957,7 +2957,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999382,
+        "g": 0.124999352,
         "b": 0.941
       },
       "LayoutGroupSortIndex": 0,
@@ -3423,9 +3423,9 @@
         "posX": 7.622168,
         "posY": 1.123904,
         "posZ": -4.731017,
-        "rotX": -2.43660747E-06,
-        "rotY": 90.03249,
-        "rotZ": 1.02434979E-05,
+        "rotX": -1.43168484E-06,
+        "rotY": 90.03252,
+        "rotZ": 9.13541E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3465,7 +3465,7 @@
         "posX": -12.81394,
         "posY": 1.18312013,
         "posZ": 5.088436,
-        "rotX": -7.14294046E-08,
+        "rotX": 4.295648E-09,
         "rotY": 180.0,
         "rotZ": 180.0,
         "scaleX": 1.0,
@@ -5723,7 +5723,7 @@
         "posX": -12.8336487,
         "posY": 1.01944292,
         "posZ": -1.65839553,
-        "rotX": -1.2609982E-07,
+        "rotX": -6.902407E-08,
         "rotY": 180.0,
         "rotZ": 180.0,
         "scaleX": 1.0,
@@ -6167,7 +6167,7 @@
         "posX": -12.8292656,
         "posY": 1.15423584,
         "posZ": -5.037417,
-        "rotX": -1.5452423E-06,
+        "rotX": -1.25020151E-07,
         "rotY": 180.0,
         "rotZ": 180.0,
         "scaleX": 1.0,
@@ -8120,11 +8120,11 @@
       "GUID": "753d3b",
       "Name": "3DText",
       "Transform": {
-        "posX": -13.0683651,
-        "posY": 0.96113044,
-        "posZ": 7.84236145,
+        "posX": -13.0683746,
+        "posY": 0.9611285,
+        "posZ": 7.84237242,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8169,11 +8169,11 @@
       "GUID": "17cf88",
       "Name": "3DText",
       "Transform": {
-        "posX": 13.8691092,
-        "posY": 0.96113044,
-        "posZ": 7.805982,
+        "posX": 13.8691168,
+        "posY": 0.9611285,
+        "posZ": 7.805992,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8218,11 +8218,11 @@
       "GUID": "5703d2",
       "Name": "3DText",
       "Transform": {
-        "posX": -12.7649517,
-        "posY": 0.961129963,
-        "posZ": 5.248441,
+        "posX": -12.7649593,
+        "posY": 0.961128,
+        "posZ": 5.24844837,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8267,11 +8267,11 @@
       "GUID": "03f207",
       "Name": "3DText",
       "Transform": {
-        "posX": -12.7929468,
-        "posY": 0.961130857,
-        "posZ": 1.81097519,
+        "posX": -12.7929554,
+        "posY": 0.961129069,
+        "posZ": 1.81098378,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8316,11 +8316,11 @@
       "GUID": "6d2d9c",
       "Name": "3DText",
       "Transform": {
-        "posX": -12.7846317,
-        "posY": 0.9611328,
-        "posZ": -1.51862621,
+        "posX": -12.7846394,
+        "posY": 0.96113193,
+        "posZ": -1.51862252,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8365,11 +8365,11 @@
       "GUID": "1dba00",
       "Name": "3DText",
       "Transform": {
-        "posX": -12.86599,
-        "posY": 0.9611328,
-        "posZ": -4.852796,
+        "posX": -12.8659992,
+        "posY": 0.96113193,
+        "posZ": -4.85279274,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8414,11 +8414,11 @@
       "GUID": "8d7e4e",
       "Name": "3DText",
       "Transform": {
-        "posX": 14.2033043,
-        "posY": 0.961129963,
-        "posZ": 5.20293951,
+        "posX": 14.2033119,
+        "posY": 0.9611276,
+        "posZ": 5.20294857,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8463,11 +8463,11 @@
       "GUID": "af6687",
       "Name": "3DText",
       "Transform": {
-        "posX": 14.1009636,
-        "posY": 0.96113193,
-        "posZ": 1.79124749,
+        "posX": 14.1009722,
+        "posY": 0.961129963,
+        "posZ": 1.79125512,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8512,11 +8512,11 @@
       "GUID": "13acbb",
       "Name": "3DText",
       "Transform": {
-        "posX": 14.2710972,
-        "posY": 0.9611328,
-        "posZ": -1.59281254,
+        "posX": 14.2711048,
+        "posY": 0.96113193,
+        "posZ": -1.59280789,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8561,11 +8561,11 @@
       "GUID": "e80d64",
       "Name": "3DText",
       "Transform": {
-        "posX": 14.0907021,
-        "posY": 0.961133063,
-        "posZ": -4.82127571,
+        "posX": 14.0907106,
+        "posY": 0.961132169,
+        "posZ": -4.82127237,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8611,10 +8611,10 @@
       "Name": "3DText",
       "Transform": {
         "posX": 0.512440741,
-        "posY": 0.9611328,
-        "posZ": -1.68412411,
+        "posY": 0.96113193,
+        "posZ": -1.68411922,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8659,11 +8659,11 @@
       "GUID": "84111f",
       "Name": "3DText",
       "Transform": {
-        "posX": -8.027442,
-        "posY": 0.9611328,
-        "posZ": -1.65092385,
+        "posX": -8.027448,
+        "posY": 0.96113193,
+        "posZ": -1.650921,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8708,11 +8708,11 @@
       "GUID": "70b5bd",
       "Name": "3DText",
       "Transform": {
-        "posX": 8.681393,
-        "posY": 0.9611328,
-        "posZ": -1.64775765,
+        "posX": 8.681399,
+        "posY": 0.96113193,
+        "posZ": -1.64775383,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8757,11 +8757,11 @@
       "GUID": "d4dcb9",
       "Name": "3DText",
       "Transform": {
-        "posX": -7.988437,
-        "posY": 0.96113044,
-        "posZ": 7.69218349,
+        "posX": -7.988444,
+        "posY": 0.9611285,
+        "posZ": 7.692192,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8935,11 +8935,11 @@
       "GUID": "e60435",
       "Name": "3DText",
       "Transform": {
-        "posX": -4.72095346,
-        "posY": 0.961133957,
-        "posZ": -6.959938,
+        "posX": -4.72095633,
+        "posY": 0.96113354,
+        "posZ": -6.95993567,
         "rotX": 90.0,
-        "rotY": 0.166600257,
+        "rotY": 0.1666003,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -8987,7 +8987,7 @@
         "posX": -12.8056135,
         "posY": 1.17349207,
         "posZ": 1.71811712,
-        "rotX": 3.30561E-07,
+        "rotX": 7.138257E-08,
         "rotY": 180.000015,
         "rotZ": 180.0,
         "scaleX": 1.0,
@@ -9124,6 +9124,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9163,6 +9164,8 @@
           "Hands": true,
           "CardID": 500,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9203,6 +9206,8 @@
           "Hands": true,
           "CardID": 506,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9256,6 +9261,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9308,6 +9314,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9360,6 +9367,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9412,6 +9420,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9464,6 +9473,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9503,6 +9513,8 @@
           "Hands": true,
           "CardID": 507,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9556,6 +9568,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9608,6 +9621,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9660,6 +9674,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9712,6 +9727,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9764,6 +9780,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9816,6 +9833,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -9855,6 +9873,8 @@
           "Hands": true,
           "CardID": 501,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9895,6 +9915,8 @@
           "Hands": true,
           "CardID": 504,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9948,6 +9970,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10000,6 +10023,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10052,6 +10076,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10104,6 +10129,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10156,6 +10182,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10208,6 +10235,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10247,6 +10275,8 @@
           "Hands": true,
           "CardID": 505,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10300,6 +10330,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10352,6 +10383,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10404,6 +10436,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10443,6 +10476,8 @@
           "Hands": true,
           "CardID": 502,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10483,6 +10518,8 @@
           "Hands": true,
           "CardID": 503,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10536,6 +10573,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10588,6 +10626,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10640,6 +10679,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10692,6 +10732,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10744,6 +10785,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10796,6 +10838,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10848,6 +10891,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10900,6 +10944,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -10952,6 +10997,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -11004,6 +11050,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -11056,6 +11103,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         }
       ]
