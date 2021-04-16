@@ -17,13 +17,13 @@
   "XmlUI": "",
   "ObjectStates": [
     {
-      "GUID": "bb0311",
+      "GUID": "11e44b",
       "Name": "DeckCustom",
       "Transform": {
-        "posX": -12.8292561,
+        "posX": -0.9074544,
         "posY": 1.00018668,
-        "posZ": -5.037418,
-        "rotX": 4.819209E-08,
+        "posZ": 14.0470181,
+        "rotX": -3.37164274E-09,
         "rotY": 180.0,
         "rotZ": 180.0,
         "scaleX": 1.0,
@@ -54,14 +54,14 @@
       "Hands": false,
       "SidewaysCard": false,
       "DeckIDs": [
-        400,
-        401,
-        402,
-        403
+        500,
+        501,
+        502,
+        503
       ],
       "CustomDeck": {
-        "4": {
-          "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1812111230264049721/E508F8C4D5E4689D8FF0FDFB77C785466EE0D6E5/",
+        "5": {
+          "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1762572191298484131/90DF8F6573FE07CBFA07704E9BC12F43CDF24CB2/",
           "BackURL": "http://cloud-3.steamusercontent.com/ugc/1727668046470842678/234B570626B6CC45EF73A296C461CD4026BF1563/",
           "NumWidth": 10,
           "NumHeight": 7,
@@ -75,13 +75,13 @@
       "XmlUI": "",
       "ContainedObjects": [
         {
-          "GUID": "658165",
+          "GUID": "fd3005",
           "Name": "Card",
           "Transform": {
-            "posX": 6.96437645,
-            "posY": 0.9905587,
-            "posZ": -2.32570076,
-            "rotX": 8.62741842E-08,
+            "posX": -1.02382743,
+            "posY": 2.04919434,
+            "posZ": 7.56611443,
+            "rotX": -5.008956E-06,
             "rotY": 180.0,
             "rotZ": 180.0,
             "scaleX": 1.0,
@@ -109,21 +109,19 @@
           "Tooltip": true,
           "GridProjection": false,
           "Hands": true,
-          "CardID": 400,
+          "CardID": 500,
           "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
         {
-          "GUID": "3f8e51",
+          "GUID": "6244ef",
           "Name": "Card",
           "Transform": {
-            "posX": 6.96437645,
-            "posY": 0.9905587,
-            "posZ": -2.32570076,
-            "rotX": 8.62741842E-08,
+            "posX": -1.02382743,
+            "posY": 2.04919434,
+            "posZ": 7.56611443,
+            "rotX": -5.008956E-06,
             "rotY": 180.0,
             "rotZ": 180.0,
             "scaleX": 1.0,
@@ -151,21 +149,19 @@
           "Tooltip": true,
           "GridProjection": false,
           "Hands": true,
-          "CardID": 401,
+          "CardID": 501,
           "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
         {
-          "GUID": "8c1f3a",
+          "GUID": "23d50c",
           "Name": "Card",
           "Transform": {
-            "posX": 6.96437645,
-            "posY": 0.9905587,
-            "posZ": -2.32570076,
-            "rotX": 8.62741842E-08,
+            "posX": -1.02382743,
+            "posY": 2.04919434,
+            "posZ": 7.56611443,
+            "rotX": -5.008956E-06,
             "rotY": 180.0,
             "rotZ": 180.0,
             "scaleX": 1.0,
@@ -193,21 +189,19 @@
           "Tooltip": true,
           "GridProjection": false,
           "Hands": true,
-          "CardID": 402,
+          "CardID": 502,
           "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
         {
-          "GUID": "d14445",
+          "GUID": "ff762d",
           "Name": "Card",
           "Transform": {
-            "posX": 6.96437645,
-            "posY": 0.9905587,
-            "posZ": -2.32570076,
-            "rotX": 8.62741842E-08,
+            "posX": -1.02382743,
+            "posY": 2.04919434,
+            "posZ": 7.56611443,
+            "rotX": -5.008956E-06,
             "rotY": 180.0,
             "rotZ": 180.0,
             "scaleX": 1.0,
@@ -235,10 +229,8 @@
           "Tooltip": true,
           "GridProjection": false,
           "Hands": true,
-          "CardID": 403,
+          "CardID": 503,
           "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         }
